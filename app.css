@@ -2,3 +2,16 @@ body
 {
     background-color: powderblue;
 }
+.m{
+    background-color: lightseagreen;
+}
+h1{
+    background-color: black;
+    color: white;
+}
+#n{
+    border-radius: 360px;
+    height: 300px;
+    width: 300px;
+    box-shadow: 3px 3px 3px red;
+}
