@@ -2,6 +2,7 @@ body
 {
     background-color: powderblue;
 }
+
 .m{
     background-color: lightseagreen;
 }
@@ -15,3 +16,47 @@ h1{
     width: 300px;
     box-shadow: 3px 3px 3px red;
 }
+
+.ran
+{
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(221, 171, 78);
+    border-radius: 25px;
+}
+img
+{
+    height: 400px;
+    width: 400px;
+    border-radius: 25px;
+    border: 5px solid green;
+}
+    
+
+h3
+{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: wheat;
+    color:crimson;
+    text-align: center;
+}
+
+.paracss
+{
+    color:red;
+    text-align: justify;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.imgcss
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
+}
+
