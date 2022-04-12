@@ -59,6 +59,10 @@ h3
   width: 30%;
 }
 
+#german
+{
+    border: 2px solid yellow; 
+}
 
 .Pic{
     width: 360px;
