@@ -12,5 +12,23 @@ h3
     font-weight: bold;
     background-color: wheat;
     color:crimson;
+    text-align: center;
+}
+
+.paracss
+{
+    color:red;
+    text-align: justify;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.imgcss
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
 }
 
