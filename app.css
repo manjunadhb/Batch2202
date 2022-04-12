@@ -85,3 +85,30 @@ h3
     border-radius: 10px;
     background-color: blueviolet;
 }
+.RRR
+{
+    background-color:azure ;
+    border: 2px solid brown;
+}
+.name
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    color:blue;
+    background-color: coral;
+    text-align: center;
+}
+.title
+{
+    font-size: 30px;
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.aboutRRR
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: blue;
+}
