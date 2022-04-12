@@ -51,14 +51,14 @@ h3
     font-size: 18px;
 }
 
-.imgcss
+.profile
 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-
 }
+
 
 .Pic{
     width: 360px;
@@ -70,5 +70,10 @@ h3
 #tarak{
     text-align: center;
     border: 2px solid red;
+<<<<<<< HEAD
 background-color: rgb(166, 166, 230);
 }
+=======
+    background-color:chartreuse;
+}
+>>>>>>> f88fc3e1fa9c47c2d0d6e4ddc5e6d8ccb1105a15
