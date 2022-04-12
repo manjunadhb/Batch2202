@@ -93,3 +93,8 @@ h3
     background-attachment: fixed;
     background-size: cover;
 }
+.paragraph
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
