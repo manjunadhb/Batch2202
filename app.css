@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 body
 {
     background-color: powderblue;
@@ -88,4 +89,7 @@ h3
 .chessPlayers
 {
     text-align: center;
+    background-image: url('https://wallpapercave.com/wp/wp2418790.png');
+    background-attachment: fixed;
+    background-size: cover;
 }
