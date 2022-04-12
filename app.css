@@ -120,6 +120,17 @@ h3
     background-attachment: fixed;
     background-size: cover;
 }
+.temple{
+    border: 2px solid red;
+    border-color: blue;
+    text-align: center;
+    background-image : url(https://wallpapercave.com/wp/wp8207298.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+
+
+}
 .paragraph
 {
     font-family: 'Pacifico', cursive;
