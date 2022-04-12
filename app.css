@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 body
 {
     background-color: powderblue;
@@ -111,4 +112,16 @@ h3
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     color: blue;
+}
+.chessPlayers
+{
+    text-align: center;
+    background-image : url('https://wallpapercave.com/wp/wp2418790.png');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.paragraph
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
 }
