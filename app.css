@@ -1,4 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 body
 {
     background-color: powderblue;
 }
+
+.m{
+    background-color: lightseagreen;
+}
+h1{
+    background-color: black;
+    color: white;
+}
+#n{
+    border-radius: 360px;
+    height: 300px;
+    width: 300px;
+    box-shadow: 3px 3px 3px red;
+}
+
+.ran
+{
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(221, 171, 78);
+    border-radius: 25px;
+}
+img
+{
+    height: 400px;
+    width: 400px;
+    border-radius: 25px;
+    border: 5px solid green;
+}
+    
+
+h3
+{
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: wheat;
+    color:crimson;
+    text-align: center;
+}
+
+.paracss
+{
+    color:red;
+    text-align: justify;
+    font-family: cursive;
+    font-size: 18px;
+    margin-left:5px;
+    margin-right:5px;
+
+}
+
+.profile
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#german
+{
+    border: 2px solid yellow; 
+    background-color: #FFF8DC;
+}
+
+.Pic{
+    width: 360px;
+    height: 360px;
+    border-radius: 360px;
+    border: 5px solid red;
+    
+}
+#tarak{
+    text-align: center;
+    border: 2px solid red;
+
+    background-color:chartreuse;
+}
+h4{font-size: 40px;
+    font-weight: bold;
+    color:midnightblue;
+    text-align: center;
+    border-radius: 30px;
+}
+h5{font-size: 40px;
+    font-weight: bold;
+    background-color:black;
+    color:rgb(138, 243, 196);
+    text-align: center;
+    border-radius: 30px;}
+
+    .trench{
+        border: solid;
+        border-radius: 20px;
+        background-color: hotpink;
+    }
+    .image{
+        border-color:black;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+
+
+
+
+.ashoka
+{
+    text-align: center;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+.RRR
+{
+    background-color:azure ;
+    border: 2px solid brown;
+}
+.name
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    color:blue;
+    background-color: coral;
+    text-align: center;
+}
+.title
+{
+    font-size: 30px;
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.aboutRRR
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: blue;
+}
+.chessPlayers
+{
+    text-align: center;
+    background-image : url('https://wallpapercave.com/wp/wp2418790.png');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.temple{
+    border: 2px solid red;
+    border-color: blue;
+    text-align: center;
+    background-image : url(https://wallpapercave.com/wp/wp8207298.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+
+
+}
+.paragraph
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+#head
+{
+  font-family: 'Grape Nuts', cursive;
+} 
+
+img {
+    height: 350px;
+    width: auto;
+    border-radius: 5px;
+  }
+
