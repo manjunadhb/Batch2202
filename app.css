@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 body
 {
     background-color: powderblue;
@@ -49,6 +50,9 @@ h3
     text-align: justify;
     font-family: cursive;
     font-size: 18px;
+    margin-left:5px;
+    margin-right:5px;
+
 }
 
 .profile
@@ -79,3 +83,63 @@ background-color: rgb(166, 166, 230);
 }
 
 
+.ashoka
+{
+    text-align: center;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+.RRR
+{
+    background-color:azure ;
+    border: 2px solid brown;
+}
+.name
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    color:blue;
+    background-color: coral;
+    text-align: center;
+}
+.title
+{
+    font-size: 30px;
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.aboutRRR
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: blue;
+}
+.chessPlayers
+{
+    text-align: center;
+    background-image : url('https://wallpapercave.com/wp/wp2418790.png');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.temple{
+    border: 2px solid red;
+    border-color: blue;
+    text-align: center;
+    background-image : url(https://wallpapercave.com/wp/wp8207298.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+
+
+}
+.paragraph
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+#head
+{
+  font-family: 'Grape Nuts', cursive;
+} 
