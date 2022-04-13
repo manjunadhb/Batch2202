@@ -143,3 +143,9 @@ background-color: rgb(166, 166, 230);
 {
   font-family: 'Grape Nuts', cursive;
 } 
+
+img {
+    height: 350px;
+    width: auto;
+    border-radius: 5px;
+  }
