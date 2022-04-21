@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@font-face {
+    font-family:Subhead ;
+    src: url(./font/English_subhead.ttf);
+}
 body
 {
     background-color: powderblue;
@@ -189,4 +193,19 @@ height: 240px;
 width: 160px;
 border: 5px solid black;
 box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.indianArmy{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    background-image: url('https://tinyurl.com/yj9ffnjp');
+   background-repeat:no-repeat;
+   background-position:center;
+   color: beige;
+   font-size: xx-large;
+   font-weight: bolder;
+   font-family: 'Subhead';
+
 }
